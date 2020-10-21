@@ -1,2 +1,1 @@
-# timekeeping
-Timekeeping App
+I was hired as a front-end developer to update existing — and implement new — features for a proprietary timekeeping system. My portion of the application required mainly using Flask(Python) and VueJS. I had little experience using either language prior to this project, but was able to quickly learn what was neccessary to deliver on my assignments. 
