@@ -5,3 +5,6 @@ My first assignment was implementing a print to PDF feature for reporting. As I 
 Another requested feature from the client was the ability to add and delete multiple rows of data from an existing tabular report. Using Javascript and Ajax requests, I implemented a feature that allowed a user to select multiple items from a list of paginated data, remove them, and have the table show the updated result. Previously, the user would have to make their changes and refresh the page in order to see the result.
 
 Additional features I implemented were:
+* A geolaction feature that checked for location permissions on the user's device, and if permissions were disabled, browser specific instructions were given to enable them.
+* Created an accessible version of the site which included removing and altering animations, improving contrast and font sizes, and changing the navigation structure.
+* Added additional API endpoints and back-end logic to address the accessible version, and additionally modified existing endpoints to account for updates to features I worked on.
