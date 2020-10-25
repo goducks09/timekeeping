@@ -9,4 +9,4 @@ Additional features I implemented were:
 * Created an accessible version of the site which included removing and altering animations, improving contrast and font sizes, and changing the navigation structure.
 * Added additional API endpoints and back-end logic to address the accessible version, and additionally modified existing endpoints to account for updates to features I worked on.
 
-As this is a proprietary software, I do not have access to the code or finished product. However, the owner/project manager that I worked for, [left a recommendation for me on LinkedIn praising my work](https://www.linkedin.com/in/chris-pulver/).
+As this is a proprietary software, I do not have access to the code or finished product. However, the owner/project manager that I worked for [left a recommendation for me on LinkedIn praising my work](https://www.linkedin.com/in/chris-pulver/).
